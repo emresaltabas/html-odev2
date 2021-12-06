@@ -1,5 +1,5 @@
 # html-odev2
-html odevi2
+
 Projenin Amacı
 Başlangıç düzeyindeki html bilgisini pekiştirmek
 
